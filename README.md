@@ -2,6 +2,9 @@
 
 This project is a computer vision-based crosswalk (pedestrian crossing) detection system built using Python and OpenCV. It detects horizontal road stripes (zebra crossings) in images or video frames by applying image processing techniques such as Gaussian blurring, Canny edge detection, and Hough Line Transform.
 
+![crosswalk video example 1](https://github.com/user-attachments/assets/5d04c201-663f-42e9-83a6-e5cbe4226eb8)
+
+
 ##  How It Works
 
 1. **Image Preprocessing**
